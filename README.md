@@ -1,1 +1,1 @@
-A divided repository to save some games on game.eon.moe
+一些搬运或自己写的 H5 小游戏。
